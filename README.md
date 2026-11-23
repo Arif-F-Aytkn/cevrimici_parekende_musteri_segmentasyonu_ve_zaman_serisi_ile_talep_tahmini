@@ -21,4 +21,4 @@ Bu projenin amacı, e-ticaret satış verileri üzerinde veri ön işleme, keşi
 
 ## Elde Edilen Sonuçlar
 * **EDA Bulguları:** İngiltere dışındaki pazarlarda en yüksek ciro katkısını sırasıyla Hollanda (Netherlands), İrlanda (EIRE), Almanya (Germany) ve Fransa (France) sağlamaktadır.
-* **Zaman Serisi Performansı:** Günlük verideki yüksek oynaklık (gürültü) nedeniyle Holt-Winters modelleri additif ve multiplikatif trend/mevsimsellik bileşenlerinde yüksek sapma göstermiştir.
+* **Zaman Serisi Performansı:** Günlük verideki yüksek oynaklık (gürültü) nedeniyle Holt-Winters modelleri toplamsal, karma ve çarpımsal modellerde trend/mevsimsellik bileşenlerinde yüksek sapma göstermiştir.
