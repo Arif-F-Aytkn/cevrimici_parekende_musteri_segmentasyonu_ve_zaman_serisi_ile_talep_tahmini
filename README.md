@@ -4,7 +4,7 @@
 Bu projenin amacı, e-ticaret satış verileri üzerinde veri ön işleme, keşifsel veri analizi (EDA) ve zaman serisi modelleme tekniklerini (Holt-Winters / Exponential Smoothing) uygulayarak günlük talep tahmin modeli geliştirmek ve model performansını değerlendirmektir.
 
 ## Kullanılan Veri Seti
-* **Veri Seti:** Online Retail Dataset (UCI Machine Learning Repository / Kaggle)
+* **Veri Seti:** [Online Retail Dataset (UCI Machine Learning Repository / Kaggle)](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 * **Kapsam:** Birleşik Krallık merkezli bir online perakende firmasının 2010–2011 yılları arasındaki tüm işlem kayıtlarını (fatura numarası, stok kodu, ürün tanımı, miktarı, birim fiyatı, müşteri ID, ülke ve fatura tarihi) içerir.
 
 ## Yöntemler ve İş Akışı
