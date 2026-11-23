@@ -1,0 +1,2 @@
+# cevrimici_parekende_musteri_segmentasyonu_ve_talep_tahmini
+Çevrimiçi Parekende veri seti ile müşteri sınıflandırması ve talep tahmini algoritması
